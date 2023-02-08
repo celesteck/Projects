@@ -6,5 +6,6 @@ School Instructed Programming Assignments:
 
 [Circular Array List](https://github.com/celesteck/Circular-Array-List.git)
 
+[Filtering Photos](https://github.com/celesteck/Filtering-Pictures.git)
 
 
